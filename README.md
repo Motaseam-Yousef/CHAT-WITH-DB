@@ -86,7 +86,4 @@ This project is licensed under the MIT License.
 - [Streamlit](https://streamlit.io/)
 - [SQLite](https://www.sqlite.org/index.html)
 
----
-
 Enjoy querying your data with ease using natural language and Streamlit!
-```
