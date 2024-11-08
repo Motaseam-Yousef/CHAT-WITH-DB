@@ -71,5 +71,3 @@ st.sidebar.markdown("### Powered by:")
 st.sidebar.markdown("- Google Gemini Model")
 st.sidebar.markdown("- Streamlit")
 st.sidebar.markdown("- SQLite Database")
-
-st.sidebar.info("Ensure the `GOOGLE_API_KEY` and `PROMPT` environment variables are set correctly for optimal performance.")
